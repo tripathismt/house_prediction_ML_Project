@@ -11,10 +11,6 @@ Key Components
 
 Usage
 Clone the repository:
-
-git clone https://github.com/yourusername/HousePrice_Prediction.git
-cd HousePrice_Prediction
-
 Install dependencies:
 
 pip install -r requirements.txt
